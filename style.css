@@ -71,7 +71,9 @@ label {
     margin-bottom: 10px;
 }
 
-
+img{
+    object-fit: contain;
+}
 /*fin modif ajout mobile first*/
 
 .bloc {
@@ -418,7 +420,7 @@ label {
     /*correction position & top and right*/
     .site-navigation {
         position: relative;
-        top: -43px;
+        top: 35px;
         right: 60px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
@@ -732,6 +734,7 @@ a {
 /*correction font size*/
 
 p {
+    padding: 10px;
     font-size: 13px;
 }
 
