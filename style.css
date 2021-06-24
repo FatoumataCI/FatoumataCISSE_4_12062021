@@ -415,10 +415,11 @@ label {
 }
 
 @media (min-width: 768px) {
+    /*correction position & top and right*/
     .site-navigation {
-        position: absolute;
-        top: 50%;
-        right: 20px;
+        position: relative;
+        top: -43px;
+        right: 60px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -881,7 +882,8 @@ h4 {
 
 @media (max-width: 1024px) {
     .bloc {
-        padding-left: 20px;
+        /*retrait padding left*/
+        /* padding-left: 20px; */
         padding-right: 20px;
     }
     .bloc.full-width-bloc,
