@@ -726,8 +726,10 @@ a {
     margin: auto auto auto auto;
 }
 
+/*correction font size*/
+
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
