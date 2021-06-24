@@ -32,6 +32,7 @@ a:hover {
     display: flex;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .row.row-no-gutters.social {
@@ -69,6 +70,7 @@ label {
     font-family: helvetica;
     margin-bottom: 10px;
 }
+
 
 /*fin modif ajout mobile first*/
 
@@ -827,7 +829,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C !important;
+    color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine {
