@@ -74,6 +74,12 @@ label {
 img{
     object-fit: contain;
 }
+
+strong {
+    padding: 10px;
+    color: white;
+}
+
 /*fin modif ajout mobile first*/
 
 .bloc {
@@ -140,7 +146,7 @@ img{
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    /* background: url("img/texture-paper.png"); */
     background-size: 280px 280px;
 }
 
