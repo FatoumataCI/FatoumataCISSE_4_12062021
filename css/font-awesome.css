@@ -12,12 +12,14 @@
 }
 
 .fa {
-    display: inline-block;
+    /*correction display + ajout justify*/
+    display: flex;
+    justify-content: center;
     font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .fa-lg {
