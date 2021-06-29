@@ -12,7 +12,7 @@
 }
 
 .fa {
-    /*correction display + ajout justify*/
+    /*correction display + ajout justify + ajout padding*/
     display: flex;
     justify-content: center;
     font: normal normal normal 14px/1 FontAwesome;
@@ -20,6 +20,7 @@
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    padding: 15px;
 }
 
 .fa-lg {

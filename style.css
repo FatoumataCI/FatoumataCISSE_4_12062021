@@ -76,8 +76,8 @@ img{
 }
 
 strong {
-    padding: 10px;
-    color: white;
+    opacity: 0;
+    position: absolute;
 }
 
 /*fin modif ajout mobile first*/
