@@ -80,6 +80,18 @@ strong {
     position: absolute;
 }
 
+a.btn.btn-atomic-tangerine.btn-clean.btn-rd.btn-lg.cta-hero {
+    font-size: large;
+}
+
+p.text-center.white {
+    font-size: large;
+}
+
+a#cta-hero {
+    font-size: large;
+}
+
 /*fin modif ajout mobile first*/
 
 .bloc {
@@ -839,7 +851,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF !important;
+    /* color: #FFFFFF !important; */
 }
 
 .btn-atomic-tangerine {
