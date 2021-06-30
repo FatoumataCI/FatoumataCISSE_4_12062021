@@ -92,6 +92,10 @@ a#cta-hero {
     font-size: large;
 }
 
+.tc-white {
+    color: #FFFFFF !important;
+}
+
 /*fin modif ajout mobile first*/
 
 .bloc {
