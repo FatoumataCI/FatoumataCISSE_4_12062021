@@ -28,6 +28,8 @@ a:hover {
 }
 
 /*debut modif ajout mobile first*/
+
+
 .col-sm-12 {
     display: flex;
     align-items: center;
@@ -851,7 +853,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgb(200, 81, 42);
 }
 
 .tc-white {
@@ -859,7 +861,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background-color: rgb(200, 81, 42);
     color: #FFFFFF!important;
 }
 
