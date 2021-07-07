@@ -28,7 +28,9 @@ a:hover {
 }
 
 /*debut modif ajout mobile first*/
-
+.col-sm-6.wc {
+    text-align: center;
+}
 
 .col-sm-12 {
     display: flex;
@@ -442,6 +444,11 @@ a#cta-hero {
 
 @media (min-width: 768px) {
     /*correction position & top and right*/
+    .col-sm-6.wc {
+        text-align: center;
+        padding: 75px;
+    }
+
     .site-navigation {
         position: relative;
         top: 35px;
