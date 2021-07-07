@@ -446,8 +446,11 @@ a#cta-hero {
     /*correction position & top and right*/
     .col-sm-6.wc {
         text-align: center;
-        padding: 75px;
+        left: 6px;
+        margin-top: 154px;
+        position: relative;
     }
+    
 
     .site-navigation {
         position: relative;
@@ -487,6 +490,14 @@ a#cta-hero {
         float: none;
         margin: 10px auto 0;
     }
+}
+
+@media (min-width: 1280px){
+    .col-sm-6.wc {
+        text-align: center;
+        left: 185px;
+        margin-top: 154px;
+        }
 }
 
 .nav > li > .dropdown a {
